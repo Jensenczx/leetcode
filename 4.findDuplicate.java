@@ -1,9 +1,4 @@
 public class Solution {
-    public int findDuplicate(int[] nums) {
-        if(nums == null || nums.length == 1)
-        	return 0;
-       
-    }
 
     public int findDuplicate(int[] nums) {
     	if(nums == null || nums.length = 0)
